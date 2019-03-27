@@ -1,4 +1,4 @@
-# GoogleMapsApi
+# GoogleMaps
 API coding
 - Client call went well
 - Design selected with template
